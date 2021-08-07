@@ -11,4 +11,6 @@ STM32 Lib LM75 LM75A LM75B LM75C
 
 Инициализация и примеры работы в файле example.txt
 
+Видео обзор: https://youtu.be/3WGjHHaYwPs
+
 По всем вопросам пишите: golinskiy.konstantin@gmail.com
